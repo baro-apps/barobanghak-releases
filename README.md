@@ -4,7 +4,7 @@
 
 ## 설치
 
-1. [최신 버전](https://github.com/yskang918/barobanghak-releases/releases/latest)에서 `barobanghak_ver.버전.zip` 을 받아요.
+1. [최신 버전](https://github.com/baro-apps/barobanghak-releases/releases/latest)에서 `barobanghak_ver.버전.zip` 을 받아요.
 2. 압축을 풀고 `barobanghak-Setup-버전.exe` 를 실행해요.
 
 이미 설치돼 있으면 바로방학을 켤 때 새 버전으로 알아서 바뀌어요.
